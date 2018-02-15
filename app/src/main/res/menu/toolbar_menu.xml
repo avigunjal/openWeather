@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/spinner"
+        android:title="Location"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.Spinner"/>
+    <item
+        android:id="@+id/Addcity"
+        android:icon="@drawable/ic_add_black_24dp"
+        app:showAsAction="always"
+        android:title="Add">
+    </item>
+    <item
+        android:id="@+id/current_location"
+        android:icon="@drawable/ic_pin_drop_black_24dp"
+        app:showAsAction="always"
+        android:title="Setting">
+    </item>
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:padding="20sp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.7"
+        android:id="@+id/tv"
+        android:text="City name"
+        android:textSize="18sp"
+        android:textColor="@color/C"
+        />
+    <ImageButton
+        android:id="@+id/delete"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:src="@drawable/ic_clear_black_24dp"
+        android:background="@android:color/transparent"
+        />
+
+
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34c2ae</color>
+    <color name="colorPrimaryDark">#23a4a4</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <item name="A" type="color">#607D8B</item>
+    <item name="B" type="color">#000000</item>
+    <item name="C" type="color">#FF5722</item>
+    <item name="D" type="color">#fac353c7</item>
+    <item name="H" type="color">#c95d5d</item>
+    <item name="I" type="color">#4CAF50</item>
+    <item name="J" type="color">#009688</item>
+    <item name="K" type="color">#1991f1</item>
+    <item name="L" type="color">#3F51B5</item>
+    <item name="M" type="color">#03A9F4</item>
+    <item name="darkgreen" type="color">#F44336</item>
+    <item name="darkorange" type="color">#E91E63</item>
+    <item name="darkred" type="color">#9C27B0</item>
+
+    <integer-array name="mycolors">
+        <item>@color/A</item>
+        <item>@color/B</item>
+        <item>@color/C</item>
+        <item>@color/D</item>
+        <item>@color/H</item>
+        <item>@color/I</item>
+        <item>@color/J</item>
+        <item>@color/K</item>
+        <item>@color/L</item>
+        <item>@color/M</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+    </integer-array>
+
+</resources>

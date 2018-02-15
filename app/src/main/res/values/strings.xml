@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"openWeather"</string>
+    <string name="_26_xb0_c">°C</string>
+    <string name="weather">Weather</string>
+    <string name="introtext"><b>Welcome</b>,\nFree weather with openWeather app.\nWeather forecast for every hour.\nInstant search Google cities.\nGet current City weather details.
+    </string>
+
+</resources>
